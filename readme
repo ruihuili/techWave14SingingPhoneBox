@@ -1,0 +1,8 @@
+Instructions to set up this example
+
+1. Load Teensy 3.2 to arduino and run the blink and audio play (https://youtu.be/wqt55OAabVs) examples to make sure the basic LED and audio play features work to start with.
+2. Music should be in format of xxx and load on SD card
+3. Download techWave14.ino and run the script via Arduino IDE
+4. Read serial info from either TeensyMonitor or linux terminal (using file arduino02.py)
+
+Future work: connect Raspberry Pi to make Arduino programmable from micro computer.
